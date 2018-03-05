@@ -1,0 +1,34 @@
+header: 
+  seq: 3132
+  stamp: 
+    secs: 64
+    nsecs:  51000000
+  frame_id: ''
+pose: 
+  position: 
+    x: 0.768325195223
+    y: -0.289168888345
+    z: 0.375889700563
+  orientation: 
+    x: 0.320982243358
+    y: 0.939102376942
+    z: 0.0477280959769
+    w: 0.11304491994
+twist: 
+  linear: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  angular: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+wrench: 
+  force: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  torque: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
